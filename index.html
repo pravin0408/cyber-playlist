@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberSec 101 - Zero to SOC Analyst</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="crt-overlay"></div>
+    <div class="scanline"></div>
+
+    <header>
+        <h1>[ CYBERSECURITY_ROADMAP ]</h1>
+        <p class="subtitle">Accessing Mainframe... Loading Job-Ready Training Modules</p>
+    </header>
+
+    <main class="container">
+        <div class="player-container">
+            <div id="player"></div>
+        </div>
+        
+        <aside class="playlist-container">
+            <h2>> ENUMERATING_MODULES</h2>
+            <ul id="playlist">
+                <!-- Javascript will populate this -->
+            </ul>
+        </aside>
+    </main>
+
+    <div class="controls-bar">
+        <div class="current-track">
+            <span id="playing-status">> WAITING FOR INPUT_</span>
+            <div id="track-title"></div>
+        </div>
+        <div class="buttons">
+            <button id="btn-prev" aria-label="Previous Module">[ PREV ]</button>
+            <button id="btn-play" aria-label="Play/Pause">[ PLAY ]</button>
+            <button id="btn-next" aria-label="Next Module">[ NEXT ]</button>
+        </div>
+    </div>
+
+    <!-- YouTube IFrame API -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="app.js"></script>
+</body>
+</html>
