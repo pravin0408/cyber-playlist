@@ -1,22 +1,22 @@
 const playlistData = [
     {
-        id: 'bPVaOlJ6ln0',
-        title: 'Networking Basics (Free CCNA) - NetworkChuck',
+        id: 'fQbBPa0ADvs',
+        title: 'Computer Networking Fundamentals Course',
         module: 'PHASE 1: IT FUNDAMENTALS'
     },
     {
-        id: 'vZAQQc62h68',
-        title: 'Linux for Ethical Hackers (Full Course) - freeCodeCamp',
+        id: '1hvVcEhcbLM',
+        title: 'Linux Essentials for Ethical Hackers',
         module: 'PHASE 1: IT FUNDAMENTALS'
     },
     {
-        id: '9Zpt9H2q6oU',
-        title: 'Security+ Full Training Course - Prof. Messer',
+        id: 'ug8W0sFiVJo',
+        title: 'Hands-On Cybersecurity and Ethical Hacking - Full Course',
         module: 'PHASE 2: SEC FUNDAMENTALS'
     },
     {
-        id: '5MGEA19gA9g',
-        title: 'SOC Analyst / Blue Team Crash Course - Simply Cyber',
+        id: 'CEKfFnHgQHw',
+        title: 'SOC Analyst L1 Full Course (Day 1)',
         module: 'PHASE 3: BLUE TEAM (DEFENSE)'
     },
     {
@@ -25,8 +25,8 @@ const playlistData = [
         module: 'PHASE 4: RED TEAM (OFFENSE)'
     },
     {
-        id: 'hJz_eF_L074',
-        title: 'TryHackMe Introduction - John Hammond',
+        id: 'Gv9IDQ47giY',
+        title: 'TryHackMe - Intro to Offensive Security',
         module: 'PHASE 5: PRACTICAL LABS'
     }
 ];
